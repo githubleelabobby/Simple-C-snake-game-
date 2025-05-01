@@ -15,7 +15,6 @@ Slither your way to greatness by munching berries and growing unstoppable!
 
 ---
 
-### Made with ❤️ in C using ncurses
 
 
                 
