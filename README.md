@@ -37,4 +37,38 @@ Slither your way to greatness by munching berries and growing unstoppable!
                   ~--______-~                ~-___-~
 
 
+# Simple-C-Snake-Game 🐍🍓
+
+Welcome to the **Snake Game**! Slither around, munch on berries, grow longer, and avoid crashing into walls. Can you get the highest score? Let's find out! 🚀
+
+---
+
+### 🛠 **Requirements**:
+1. **Linux-based system** (Ubuntu works best!).
+2. **GCC** compiler.
+3. **ncurses** library.
+
+### 🚀 **How to Play**:
+
+1. **Install dependencies**:
+   ```bash
+   sudo apt update
+   sudo apt install build-essential libncurses5-dev libncursesw5-dev
+2. Clone the repo and paste 
+
+  git clone https://github.com/LeelaBobby/Simple-C-snake-game.git
+  cd Simple-C-snake-game
+
+  //compile 
+  
+  cc leela_snake_game.c -lncurses -o leela_output
+
+  //Run and Play
+  
+  ./leela_output
+
+
+
+
+
                   
