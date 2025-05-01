@@ -57,6 +57,7 @@ Welcome to the **Snake Game**! Slither around, munch on berries, grow longer, an
 2. Clone the repo and paste 
 
   git clone https://github.com/LeelaBobby/Simple-C-snake-game.git
+  
   cd Simple-C-snake-game
 
   //compile 
