@@ -15,27 +15,7 @@ Slither your way to greatness by munching berries and growing unstoppable!
 
 ---
 
-
-
-                
-              /^\/^\
-            /|__| 0 |
-🍓  \/     /~     \_/ \
-    \____|__________/  \
-           \_______      \
-                   `\     \                 \
-                     |     |                  \
-                    /      /                    \
-                   /     /                       \
-                 /      /                         \ \
-                /     /                            \  \
-              /     /             _----_            \   \
-             /     /           _-~      ~-_         |   |
-            (      (        _-~    _--_    ~-_     _/   |
-             \      ~-____-~    _-~    ~-_    ~-_-~    /
-               ~-_           _-~          ~-_       _-~
-                  ~--______-~                ~-___-~
-<img width="225" height="212" alt="image" src="https://github.com/user-attachments/assets/77e89e0c-3d43-44c4-bc38-088d0e87b710" />
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/77e89e0c-3d43-44c4-bc38-088d0e87b710" />
 
 
 # Simple-C-Snake-Game 🐍🍓
