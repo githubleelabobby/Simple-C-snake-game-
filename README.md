@@ -17,8 +17,7 @@ Slither your way to greatness by munching berries and growing unstoppable!
 
 
 
-https://github.com/user-attachments/assets/88039982-5ba7-4882-bfd7-fe4a65e817ad
-
+https://github.com/user-attachments/assets/f0a7bd21-7c4f-4aa1-ad06-6b069e1db60d
 
 
 
